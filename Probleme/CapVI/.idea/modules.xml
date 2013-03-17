@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CapVI.iml" filepath="$PROJECT_DIR$/CapVI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapVII/CapVII.iml" filepath="$PROJECT_DIR$/CapVII/CapVII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CapVII/untitled/src/src.iml" filepath="$PROJECT_DIR$/../CapVII/untitled/src/src.iml" />
+    </modules>
+  </component>
+</project>
+
